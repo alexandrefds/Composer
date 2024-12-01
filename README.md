@@ -1,2 +1,3 @@
-# docker
-Docker with Composer
+# Docker
+# 
+1Ambiente de preparação para o uso do Laravel
