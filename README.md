@@ -1,2 +1,3 @@
-# docker
-Docker with Composer
+# Docker
+
+Preparation environment for using Laravel.
